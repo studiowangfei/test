@@ -53,15 +53,15 @@ body {
 }
 
 #slides li.reactions {
-	background-image: url(../assets/1.jpg);
+	background-image: url(assets/1.jpg);
 }
 
 #slides li.paper {
-	background-image: url(../assets/2.jpg);
+	background-image: url(assets/2.jpg);
 }
 
 #slides li.origami {
-	background-image: url(../assets/3.jpg);
+	background-image: url(assets/3.jpg);
 }
 
 #slides li.origami p.iphone {
@@ -69,11 +69,11 @@ body {
 }
 
 #slides li.chatHeads {
-	background-image: url(../assets/4.jpg);
+	background-image: url(assets/4.jpg);
 }
 
 #slides li.logo {
-	background-image: url(../assets/test.gif);
+	background-image: url(assets/5.jpg);
 }
 
 #slides li.logo p.iphone {
@@ -81,19 +81,19 @@ body {
 }
 
 #slides li.swipe {
-	background-image: url(../assets/6.jpg);
+	background-image: url(assets/6.jpg);
 }
 
 #slides li.drawer {
-	background-image: url(../assets/7.jpg);
+	background-image: url(assets/7.jpg);
 }
 
 #slides li.capo {
-	background-image: url(../assets/8.jpg);
+	background-image: url(assets/8.jpg);
 }
 
 #slides li.billings {
-	background-image: url(../assets/9.jpg);
+	background-image: url(assets/9.jpg);
 }
 
 #slides p {
